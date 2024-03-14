@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\mvccrud\\mvccrud\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\mvccrud\\mvccrud\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\mvccrud\\mvccrud\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\mvccrud\\mvccrud\\models\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\models\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\mvccrud\\mvccrud\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|c:\\users\\vishnu_virtuosoft\\source\\repos\\mvccrud\\mvccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBE88604-7945-4482-B6CB-330DF10BEC29}|MvcCrud\\MvcCrud.csproj|solutionrelative:mvccrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\Views\\Register\\register.cshtml",
+              "RelativeDocumentMoniker": "MvcCrud\\Views\\Register\\register.cshtml",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\Views\\Register\\register.cshtml",
+              "RelativeToolTip": "MvcCrud\\Views\\Register\\register.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T03:56:32.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myClass.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\Models\\myClass.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Models\\myClass.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\Models\\myClass.cs",
+              "RelativeToolTip": "MvcCrud\\Models\\myClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:00:28.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "MvcCrud\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\css\\StyleSheet.css",
+              "RelativeToolTip": "MvcCrud\\css\\StyleSheet.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-14T04:05:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "MvcCrud\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:57:24.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\Models\\UserMaster.cs",
+              "RelativeDocumentMoniker": "MvcCrud\\Models\\UserMaster.cs",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\Models\\UserMaster.cs",
+              "RelativeToolTip": "MvcCrud\\Models\\UserMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:43:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vishnu_Virtuosoft\\source\\repos\\MvcCrud\\MvcCrud\\appsettings.json",
+              "RelativeToolTip": "MvcCrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T05:04:34.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

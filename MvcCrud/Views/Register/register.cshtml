@@ -1,0 +1,84 @@
+﻿@model UserMaster
+@{
+    Layout = null;
+}
+<html>
+    <head>
+        <title>
+            register
+        </title>
+        <link href="~/css/site.css" rel="stylesheet" />
+    </head>
+    <body>
+        <form action="/" method="post" id="personForm">
+        <div class="register-card">
+            <h1>Register</h1>
+            <input type="text" asp-for="FULLNAME" placeholder="enter name" id="firstname" />
+            <input type="text" asp-for="USERNAME" placeholder="enter username" id="username" />
+            <input type="password" asp-for="PASSWORD" placeholder="enter password" id="password" />
+            <input type="password" placeholder="re-enter password" id="password1" />
+            <button type="button" asp-for="PASSWORD1" id="submitBtn">SUBMIT</button>
+        </div>
+        </form>
+        
+    </body>
+</html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#submitBtn").on("click", function () {
+            var fullname = $("#firstname").val();
+            var uname = $("#username").val();
+            var pword = $("#password").val();
+            var JsonData = {
+                "fullname": fullname,
+                "username": uname,
+                "password": pword
+            }
+            var valid = 0;
+            if ($("#firstname").val() == "") {
+                alert("enter first name");
+                $("#firstname").focus();
+                valid = 1;
+                return; 
+            }
+            if ($("#username").val() == "") {
+                alert("enter username");
+                $("#username").focus();
+                valid = 1;
+                return; 
+            }
+            if ($("#password").val() == "") {
+                alert("enter password");
+                $("#password").focus();
+                valid = 1;
+                return; 
+            }
+            if ($("#password").val() != $("#password1").val()) {
+                alert("passwords do not match");
+                return; 
+            }
+            if (valid == 0) {
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.Action("insertData", "Register")",
+                    data: JSON.stringify(JsonData), 
+                    contentType: "application/json",
+                    success: function (response) {
+                        alert("Data inserted successfully");
+                        
+                        $("#firstname").val('');
+                        $("#username").val('');
+                        $("#password").val('');
+                        $("#password1").val('');
+                    },
+                    error: function (response) {
+                        alert("error");
+                    }
+                });
+            }
+        });
+    });
+
+    
+    </script>
